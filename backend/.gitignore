@@ -1,0 +1,23 @@
+# BACKEND
+# Environment variables
+.env.local
+.vscode
+.env
+env
+.sqlite3
+# Database migrations
+migrations/
+
+# Python bytecode files
+__pycache__/
+/__pycache__
+project/__pycache__/
+.pyc
+
+__init__.py
+# SQLite database files
+*.sqlite3
+db.sqlite3
+
+__init__.py
+/migrations
